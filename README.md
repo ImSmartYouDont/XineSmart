@@ -1,1 +1,3 @@
 # XineSmart
+
+Movies and series
